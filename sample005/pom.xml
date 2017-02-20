@@ -22,7 +22,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>1.2.1</version>
                 <configuration>
-                    <mainClass>de.jluger.jugn_vortrag.sample002.Sample005</mainClass>
+                    <mainClass>de.jluger.jugn_vortrag.sample005.Sample005</mainClass>
                 </configuration>
             </plugin>
         </plugins>
